@@ -1,5 +1,5 @@
 /**
- * Class: matrix_class
+ * Class: Matrix
  * Object representing an m-by-n matrix
  *   as 2D arrays in row-major order
  * Static methods to add and multiply matrices.
